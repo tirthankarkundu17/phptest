@@ -1,9 +1,9 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Tirtho
- * Date: 20-04-2017
- * Time: 06:17 AM
- */
-echo "Hello World Check";
-?>
+<html>
+<title>Hello</title>
+<body>
+    <h1>Welcome to my World</h1>
+    <?php
+        echo date("Y/m/d");
+    ?>
+</body>
+</html>
